@@ -1,0 +1,1 @@
+My experiments with Tensorflow, on the basic MNIST dataset. Using a basic Neural network and applying dropout we get an accuracy of 92%. To further enhance this, we try a simple 2 layer CNN, and the accuracy is further increased to approximately 99%. 
